@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "K \xE5\x9D\x87\xE5\x80\xBC\xE7\xAE\x97\xE6\xB3\x95\xE7\x9A\x84\xE6\x95\x88\xE7\x8E\x87"
+tags: 
+- "\xE7\xAE\x97\xE6\xB3\x95"
+status: publish
+type: post
+published: true
+meta: 
+  _edit_last: "2"
+  _wp_old_slug: k-%e5%9d%87%e5%80%bc%e7%ae%97%e6%b3%95%e7%9a%84%e6%95%88%e7%8e%87
+  dsq_thread_id: "618000741"
+---
+Hierachial clustering 这类的方法最大的问题就在于对计算机内存的占用，当然对计算量也是一个严重的考验。n×m  的矩阵要进行 n×n 次计算，n^2 这个函数估计大家应该记得很清楚，汗~~~~
+
+Partitioning clustering 好处就是将计算量由x^2变为 x ，即线性函数。而其典型代表就是kmeans：
+
+<a href="http://axqpza.bay.livefilestore.com/y1pXAqCw0JTJPPkFHsiN1_HZbucvbdhpjM3X6lE0cZYS3YRvglj1w8NXRpuQHtNFbXvf2cStsCd9iih286zTxiABA?PARTNER=WRITER"><img style="border-top-width:0px;display:inline;border-left-width:0px;border-bottom-width:0px;border-right-width:0px" title="kk" src="http://axqpza.bay.livefilestore.com/y1pz8-4sUNe2IVHTdInvQYO0NCCQdWba_swnqUrl_SBjZXku_XroELug4NWUzd2S54X5JWPDt4F8CQQMuCq4SJIBQ?PARTNER=WRITER" border="0" alt="kk" width="593" height="327" /></a>
+
+图一是kmeans 算法中，增加变量（由1到100）的运算时间，图二是增加单维变量长度（x×1到x×100）。如果增加变量情形下，估计HC应该和PC 一致，但如果同时增加case的话，HC必然崩溃……

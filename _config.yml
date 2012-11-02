@@ -1,0 +1,12 @@
+markdown: rdiscount 
+permalink: /:year/:month/:day/:title 
+title: BJT
+url: http://bjt.name
+subscribe: http://bjt.name/feed.xml
+exclude: [ README.md, newpost.rb ]
+domain: bjt.name
+author: bjt
+email: sunbjt@gmail.com
+auto: true
+twitterID: sunbjt
+duoshuoShortname: sunbjt
