@@ -21,25 +21,25 @@ meta:
 <blockquote>客观自然界中许多事物，具有自相似的“层次”结构，在理想情况下，甚至具有无穷层次。适当的放大或缩小几何尺寸，整个结构并不改变。不少复杂的物理现象，背后就是反映着这类层次结构的分形几何学。</blockquote>
 常见的曼德布洛特集是这个样子（分辨率原因，部分细节显示不够）：
 
-<a href="http://www.bjt.name/wp-content/uploads/2009/12/scale1.png"><img class="aligncenter size-full wp-image-10438" title="scale1" src="http://www.bjt.name/wp-content/uploads/2009/12/scale1.png" alt="" width="480" height="480" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2009/12/scale1.png"><img class="aligncenter size-full wp-image-10438" title="scale1" src="http://bjt.cos.name/wp-content/uploads/2009/12/scale1.png" alt="" width="480" height="480" /></a>
 
 假如我们把这个集合的下半部分（最下边的小块）分割出来，就是这个样子（8倍放大）：
 
-<a href="http://www.bjt.name/wp-content/uploads/2009/12/scale2.png"><img class="aligncenter size-full wp-image-10438" title="scale2" src="http://www.bjt.name/wp-content/uploads/2009/12/scale2.png" alt="" width="480" height="480" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2009/12/scale2.png"><img class="aligncenter size-full wp-image-10438" title="scale2" src="http://bjt.cos.name/wp-content/uploads/2009/12/scale2.png" alt="" width="480" height="480" /></a>
 
 由于分辨率的提高，所以显示了第一幅图中并没有显示的细节。
 
 继续放大，上图的左上部分的那个小枝（6倍放大）：
 
-<a href="http://www.bjt.name/wp-content/uploads/2009/12/scale41.png"><img class="aligncenter size-full wp-image-10446" title="scale4" src="http://www.bjt.name/wp-content/uploads/2009/12/scale41.png" alt="" width="480" height="480" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2009/12/scale41.png"><img class="aligncenter size-full wp-image-10446" title="scale4" src="http://bjt.cos.name/wp-content/uploads/2009/12/scale41.png" alt="" width="480" height="480" /></a>
 
 再把上图最靠近左边的那个小枝——放大（50/3倍放大）：
 
-<a href="http://www.bjt.name/wp-content/uploads/2009/12/scale51.png"><img class="aligncenter size-full wp-image-10447" title="scale5" src="http://www.bjt.name/wp-content/uploads/2009/12/scale51.png" alt="" width="480" height="480" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2009/12/scale51.png"><img class="aligncenter size-full wp-image-10447" title="scale5" src="http://bjt.cos.name/wp-content/uploads/2009/12/scale51.png" alt="" width="480" height="480" /></a>
 
 继续放大最左边的小枝，似乎在末端又出现了一个类似的小枝（5倍放大）：
 
-<a href="http://www.bjt.name/wp-content/uploads/2009/12/scale6.png"><img class="aligncenter size-full wp-image-10450" title="scale6" src="http://www.bjt.name/wp-content/uploads/2009/12/scale6.png" alt="" width="480" height="480" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2009/12/scale6.png"><img class="aligncenter size-full wp-image-10450" title="scale6" src="http://bjt.cos.name/wp-content/uploads/2009/12/scale6.png" alt="" width="480" height="480" /></a>
 
 如果继续放大下去可能还是这个样子 ：）
 

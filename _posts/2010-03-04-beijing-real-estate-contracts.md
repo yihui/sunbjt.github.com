@@ -10,7 +10,7 @@ category:
   - Life
 meta: 
   _edit_last: "2"
-  _efficient_related_posts: "a:1:{i:0;a:4:{s:2:\"ID\";s:5:\"10000\";s:10:\"post_title\";s:35:\"\xE6\x88\xBF\xE5\x9C\xB0\xE4\xBA\xA7\xE6\xB3\xA1\xE6\xB2\xAB\xEF\xBC\x9F- \xE5\xBE\x97\xE7\x9E\x85\xE7\x9E\x85\xE4\xBA\x86\xEF\xBC\x81\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:60:\"http://www.bjt.name/2009/06/real-estate-bubble-data-beijing/\";}}"
+  _efficient_related_posts: "a:1:{i:0;a:4:{s:2:\"ID\";s:5:\"10000\";s:10:\"post_title\";s:35:\"\xE6\x88\xBF\xE5\x9C\xB0\xE4\xBA\xA7\xE6\xB3\xA1\xE6\xB2\xAB\xEF\xBC\x9F- \xE5\xBE\x97\xE7\x9E\x85\xE7\x9E\x85\xE4\xBA\x86\xEF\xBC\x81\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:60:\"http://bjt.cos.name/2009/06/real-estate-bubble-data-beijing/\";}}"
   _relation_threshold: "2"
   dsq_thread_id: "600837574"
 ---
@@ -23,7 +23,7 @@ meta:
 （首先声明，房地产市场比较复杂，比如官啊、商啊、摇号啊、中介啊、银行啊、炒房团啊，空军、多军……指标忒多，所以我一直也没搞太明白。搞不明白也想凑一凑热闹，与时俱进嘛！扔两张图上来，大家笑笑）
 
 2008年9月1日至今的期房（不包含经适房、限价房）签约情况：
-<p style="text-align: center;"><a href="http://www.bjt.name/wp-content/uploads/2010/03/amount1.png" target="_blank"><img class="size-full wp-image-10631 aligncenter" title="amount1" src="http://www.bjt.name/wp-content/uploads/2010/03/amount1.png" alt="" width="800" height="600" /></a></p>
+<p style="text-align: center;"><a href="http://bjt.cos.name/wp-content/uploads/2010/03/amount1.png" target="_blank"><img class="size-full wp-image-10631 aligncenter" title="amount1" src="http://bjt.cos.name/wp-content/uploads/2010/03/amount1.png" alt="" width="800" height="600" /></a></p>
 
 <div id="_mcePaste">其中的时点数据不包括：</div>
 <div>
@@ -37,7 +37,7 @@ meta:
 <div>假设2008年是期房市场正常年的话，那么2009年几乎可以用“疯狂”二字来标记北京的期房市场。每天平均400套的签约数量，动辄200、300万的房价，都贵成这样了，被谁买去啦？</div>
 <div><!--more--></div>
 <div>然后是北京存量房签约情况：</div>
-<div><a href="http://www.bjt.name/wp-content/uploads/2010/03/amount2.png"><img class="size-full wp-image-10630 aligncenter" title="amount2" src="http://www.bjt.name/wp-content/uploads/2010/03/amount2.png" alt="" width="800" height="600" /></a></div>
+<div><a href="http://bjt.cos.name/wp-content/uploads/2010/03/amount2.png"><img class="size-full wp-image-10630 aligncenter" title="amount2" src="http://bjt.cos.name/wp-content/uploads/2010/03/amount2.png" alt="" width="800" height="600" /></a></div>
 （不知为何，北京房地场交易网没有2008年9月1日至2008年10月14日数据。）
 
 存量房签约的情况大致和期房签约变化一致。同样是2008年的数量比较小，而到了2009年，市场开始癫狂。不过存量房签约套数变化有点意思:
@@ -49,4 +49,4 @@ meta:
 
 但从买卖双方博弈角度来说：可售商品房的减少，很有可能是因为大部分投机客获利，大规模离场的原因。但，可惜的是我们没有进一步数据进行分析……
 
-最后是数据——<a href="http://www.bjt.name/wp-content/uploads/2010/03/data1.csv" target="_blank">期房</a>，<a href="http://www.bjt.name/wp-content/uploads/2010/03/data2.csv" target="_blank">存量房</a>。二者除了套数数据以外，还包括面积。在期房数据中包括的后两项为经适房、两限房；存量房数据分为合计、服务窗口签约、经纪机构签约、交易保证机构签约。
+最后是数据——<a href="http://bjt.cos.name/wp-content/uploads/2010/03/data1.csv" target="_blank">期房</a>，<a href="http://bjt.cos.name/wp-content/uploads/2010/03/data2.csv" target="_blank">存量房</a>。二者除了套数数据以外，还包括面积。在期房数据中包括的后两项为经适房、两限房；存量房数据分为合计、服务窗口签约、经纪机构签约、交易保证机构签约。

@@ -24,7 +24,7 @@ published: true
 下图是文本挖掘工具及特性的一个总结（来自于Journal of Statistical Software 2008）
 
 
-![](http://www.bjt.name/wp-content/uploads/2012/03/tools.png)
+![](http://bjt.cos.name/wp-content/uploads/2012/03/tools.png)
 
 
 * Preprocess：数据准备、导入、清洗以及一般性的预处理
@@ -63,4 +63,4 @@ Ingo Feinerer开发维护的[tm](http://ftp.ctex.org/mirrors/CRAN/web/packages/t
 
 当然，作为非正式发布文档还有很多地方不尽完善，后续可能会有较大更新，请关注博客上的to do list。
 
-文档下载：[R语言环境下的文本挖掘](http://www.bjt.name/wp-content/uploads/2012/03/Text-Mining-in-R.pdf)
+文档下载：[R语言环境下的文本挖掘](http://bjt.cos.name/wp-content/uploads/2012/03/Text-Mining-in-R.pdf)

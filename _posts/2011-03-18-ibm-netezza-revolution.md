@@ -17,6 +17,6 @@ category:
 延伸阅读：
 <ul>
 	<li>2010年9月20日，IBM以17亿美元的价格收购了Netezza，从而扩张其用于销售、市场营销和产品开发的商务分析产品。Netezza被公认为数据仓库市场中最具竞争力的厂商。</li>
-	<li><a href="http://www.revolutionanalytics.com" target="_blank">Revolution Analytics</a>成立于2007年，是一家以R语言为核心的商业公司，其CEO是SPSS公司的创始人<a href="http://www.bjt.name/2009/10/spss-norman-nie-r/" target="_blank">Norman Nie</a></li>
-	<li><a href="http://www.bjt.name/2009/07/ibm-spss-acquisition/" target="_blank">这里</a>，还有IBM收购SPSS公司</li>
+	<li><a href="http://www.revolutionanalytics.com" target="_blank">Revolution Analytics</a>成立于2007年，是一家以R语言为核心的商业公司，其CEO是SPSS公司的创始人<a href="http://bjt.cos.name/2009/10/spss-norman-nie-r/" target="_blank">Norman Nie</a></li>
+	<li><a href="http://bjt.cos.name/2009/07/ibm-spss-acquisition/" target="_blank">这里</a>，还有IBM收购SPSS公司</li>
 </ul>

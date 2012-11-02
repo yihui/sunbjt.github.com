@@ -12,7 +12,7 @@ category:
 meta: 
   _edit_last: "2"
   _wp_old_slug: welfare-lottery
-  _efficient_related_posts: "a:5:{i:0;a:4:{s:2:\"ID\";s:5:\"10715\";s:10:\"post_title\";s:36:\"\xE5\x8F\xB2\xE4\xB8\x8A\xE6\x9C\x80\xE5\xBC\xBA\xE6\x82\x8D\xE7\x9A\x84\xE6\x95\xB0\xE6\x8D\xAE\xE6\x8C\x96\xE6\x8E\x98\xE4\xBB\x8B\xE7\xBB\x8D\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:54:\"http://www.bjt.name/2010/12/toronto-data-mining-intro/\";}i:1;a:4:{s:2:\"ID\";s:5:\"10654\";s:10:\"post_title\";s:34:\"Oracle\xE6\x95\xB0\xE6\x8D\xAE\xE5\xBA\x93\xE5\xBC\x80\xE5\xA7\x8B\xE6\x94\xAF\xE6\x8C\x81R\xE8\xAF\xAD\xE8\xA8\x80\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:49:\"http://www.bjt.name/2010/06/oracle-data-mining-r/\";}i:2;a:4:{s:2:\"ID\";s:5:\"10306\";s:10:\"post_title\";s:27:\"\xE6\x8F\x90\xE9\xAB\x98\xE5\x8F\x8C\xE8\x89\xB2\xE7\x90\x83\xE4\xB8\xAD\xE5\xA5\x96\xE6\xA6\x82\xE7\x8E\x87\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:41:\"http://www.bjt.name/2009/11/thunder-ball/\";}i:3;a:4:{s:2:\"ID\";s:4:\"9992\";s:10:\"post_title\";s:36:\"\xE5\x85\xB3\xE4\xBA\x8E\xE5\x9C\xA8hoopchina\xE4\xB8\x8A\xE5\x8F\x91\xE5\xB8\x96\xE7\x9A\x84\xE5\x9B\x9E\xE7\xAD\x94\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:59:\"http://www.bjt.name/2009/04/hoopchina-single-index-yaoming/\";}i:4;a:4:{s:2:\"ID\";s:4:\"9997\";s:10:\"post_title\";s:27:\"500\xE4\xB8\x87\xEF\xBC\x9F\xE5\x8E\xBB\xE4\xB9\xB0\xE5\x8F\x8C\xE8\x89\xB2\xE7\x90\x83\xEF\xBC\x81\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:104:\"http://www.bjt.name/2009/05/500%e4%b8%87%ef%bc%9f%e5%8e%bb%e4%b9%b0%e5%8f%8c%e8%89%b2%e7%90%83%ef%bc%81/\";}}"
+  _efficient_related_posts: "a:5:{i:0;a:4:{s:2:\"ID\";s:5:\"10715\";s:10:\"post_title\";s:36:\"\xE5\x8F\xB2\xE4\xB8\x8A\xE6\x9C\x80\xE5\xBC\xBA\xE6\x82\x8D\xE7\x9A\x84\xE6\x95\xB0\xE6\x8D\xAE\xE6\x8C\x96\xE6\x8E\x98\xE4\xBB\x8B\xE7\xBB\x8D\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:54:\"http://bjt.cos.name/2010/12/toronto-data-mining-intro/\";}i:1;a:4:{s:2:\"ID\";s:5:\"10654\";s:10:\"post_title\";s:34:\"Oracle\xE6\x95\xB0\xE6\x8D\xAE\xE5\xBA\x93\xE5\xBC\x80\xE5\xA7\x8B\xE6\x94\xAF\xE6\x8C\x81R\xE8\xAF\xAD\xE8\xA8\x80\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:49:\"http://bjt.cos.name/2010/06/oracle-data-mining-r/\";}i:2;a:4:{s:2:\"ID\";s:5:\"10306\";s:10:\"post_title\";s:27:\"\xE6\x8F\x90\xE9\xAB\x98\xE5\x8F\x8C\xE8\x89\xB2\xE7\x90\x83\xE4\xB8\xAD\xE5\xA5\x96\xE6\xA6\x82\xE7\x8E\x87\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:41:\"http://bjt.cos.name/2009/11/thunder-ball/\";}i:3;a:4:{s:2:\"ID\";s:4:\"9992\";s:10:\"post_title\";s:36:\"\xE5\x85\xB3\xE4\xBA\x8E\xE5\x9C\xA8hoopchina\xE4\xB8\x8A\xE5\x8F\x91\xE5\xB8\x96\xE7\x9A\x84\xE5\x9B\x9E\xE7\xAD\x94\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:59:\"http://bjt.cos.name/2009/04/hoopchina-single-index-yaoming/\";}i:4;a:4:{s:2:\"ID\";s:4:\"9997\";s:10:\"post_title\";s:27:\"500\xE4\xB8\x87\xEF\xBC\x9F\xE5\x8E\xBB\xE4\xB9\xB0\xE5\x8F\x8C\xE8\x89\xB2\xE7\x90\x83\xEF\xBC\x81\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:104:\"http://bjt.cos.name/2009/05/500%e4%b8%87%ef%bc%9f%e5%8e%bb%e4%b9%b0%e5%8f%8c%e8%89%b2%e7%90%83%ef%bc%81/\";}}"
   _relation_threshold: "2"
   dsq_thread_id: "609163407"
 ---
@@ -22,7 +22,7 @@ meta:
 
 <span style="font-family: Courier New;"><samp style="font-family: 宋体;">在随机选择，且每次抽取都是等概率的的假定条件下，理论的重复彩票注数的分布（0注至41注）如下：</samp></span>
 
-<span style="font-family: Courier New;"><samp style="font-family: 宋体;"><img src="http://www.bjt.name/wp-content/uploads/1.png" alt="" width="644" height="371" /></samp></span>
+<span style="font-family: Courier New;"><samp style="font-family: 宋体;"><img src="http://bjt.cos.name/wp-content/uploads/1.png" alt="" width="644" height="371" /></samp></span>
 
 <span style="font-family: Courier New;"><samp><span style="font-family: Arial;">
 </span></samp></span>
@@ -31,7 +31,7 @@ meta:
 
 <span style="font-family: Courier New;"><samp><span style="font-family: Arial;">那么我们再看一看福利彩票双色球每期中一等奖（2008年1月1日至2009年7月23日）的实际分布情况：</span></samp></span>
 
-<span style="font-family: Courier New;"><samp><img src="http://www.bjt.name/wp-content/uploads/2009/07/thunderball2.png" alt="thunderball2.png" width="623" height="401" /></samp></span>
+<span style="font-family: Courier New;"><samp><img src="http://bjt.cos.name/wp-content/uploads/2009/07/thunderball2.png" alt="thunderball2.png" width="623" height="401" /></samp></span>
 
 <span style="font-family: Courier New;"><samp><span style="font-family: Arial;">
 有童鞋看出端倪了：实际数据的分布同理论上的分布是不一致的！理论上的一等奖出现概率最大在出现五注的位置，而实际上一等奖出现的最大概率出现在了两注的位置。</span></samp></span>
@@ -42,7 +42,7 @@ meta:
 
 <span style="font-family: Courier New;"><samp><span style="font-family: Arial;">一些彩民为了提高中奖概率（或者说迷信一些选号方法），会采用"复式"、"胆拖"、"倍投"等方式投注，当然大部分彩民还是会老老实实的买一注。综合考虑到这些因素以后，凭经验估计样本量应该为现在的一半左右，即5000万。这样看来较为合理的一等奖中奖概率理论上分布为：</span></samp></span>
 
-<span style="font-family: Courier New;"><samp><span style="font-family: Arial;"><img src="http://www.bjt.name/wp-content/uploads/2.png" alt="" width="644" height="371" /></span></samp></span>
+<span style="font-family: Courier New;"><samp><span style="font-family: Arial;"><img src="http://bjt.cos.name/wp-content/uploads/2.png" alt="" width="644" height="371" /></span></samp></span>
 
 此时理论分布同实际分布已经非常相似。
 

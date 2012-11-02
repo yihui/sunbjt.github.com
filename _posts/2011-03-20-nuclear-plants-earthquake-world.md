@@ -22,13 +22,13 @@ category:
 
 首先是世界范围，各国拥有核电站的数量：
 
-<a href="http://www.bjt.name/wp-content/uploads/2011/03/nuclear-plants.png"><img class="aligncenter size-full wp-image-10765" title="nuclear plants" src="http://www.bjt.name/wp-content/uploads/2011/03/nuclear-plants.png" alt="" width="672" height="480" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2011/03/nuclear-plants.png"><img class="aligncenter size-full wp-image-10765" title="nuclear plants" src="http://bjt.cos.name/wp-content/uploads/2011/03/nuclear-plants.png" alt="" width="672" height="480" /></a>
 
 可以看到，世界范围核电排名前四的国家分别是美国、法国、日本，俄罗斯联邦，我国排名第十，和发达国家确实有段距离；这排名前四的几个国家的核电基本都是在1970-1990时间段建设，而近十年发展速度明显降了下来。但反观中国大陆，大部分核能电站都是在2000-2010年期间修建，并且在规划中的核电站（反应堆）更多。
 
 而从日本核电站事故上看，<strong>核能电站修建在地震多发地带是非常不明智的，</strong>即便是有多重的防护措施。我们关注一下，地震多发地带和核电站分布重合的程度。下图标记了1973年至2010年，世界范围内的1级（包含）以上地震分布（红色为实际的地震发生地点，蓝色为当年发生地震的密度），以及每年各国存量核电站（绿色点标记）的情况：
 
-<a href="http://www.bjt.name/wp-content/uploads/2011/03/earthquake_nuclear_plants.gif"><img class="aligncenter size-full wp-image-10766" title="earthquake_nuclear_plants" src="http://www.bjt.name/wp-content/uploads/2011/03/earthquake_nuclear_plants.gif" alt="" width="650" height="306" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2011/03/earthquake_nuclear_plants.gif"><img class="aligncenter size-full wp-image-10766" title="earthquake_nuclear_plants" src="http://bjt.cos.name/wp-content/uploads/2011/03/earthquake_nuclear_plants.gif" alt="" width="650" height="306" /></a>
 
 左下角的小图是1973年至今所有世界一级以上地震发生的高概率区域，从这个小图上看，日本、美国西海岸、南美洲西海岸是高发地震区域。最近发生在这三个区域的大型破坏地震有：智利2010年8.8级、日本2011年9.0级、美国加利福尼亚州2003年6.5级（不过加州的这次好像还不够，有报道说可能还会发生更大级别的地震）。
 

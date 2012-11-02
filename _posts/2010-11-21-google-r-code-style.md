@@ -97,4 +97,4 @@ category:
 </ul>
 最后再一次推荐使用Emacs+ESS，虽然我已经折腾n多次了～～
 
-永久链接：http://www.bjt.name/2010/11/google-r-code-style
+永久链接：http://bjt.cos.name/2010/11/google-r-code-style

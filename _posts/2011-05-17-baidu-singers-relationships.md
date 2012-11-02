@@ -32,7 +32,7 @@ category:
 </ul>
 于是乎，就这么办了（请新建标签页浏览图片）：
 
-![](http://www.bjt.name/wp-content/uploads/2011/05/singers.png)
+![](http://bjt.cos.name/wp-content/uploads/2011/05/singers.png)
 
 很有意思的结果，有几点提示：
 <ol>
@@ -42,4 +42,4 @@ category:
 </ol>
 解释的话，我这儿就省了。仁者见仁，智者见智。反正这198位歌手，我还有几十个不认识，像什么格格、小雪、大嘴巴之类的，还有什么飞轮海啥的，我的偶像集中在上个世纪，呵呵。
 
-http://www.bjt.name/2011/05/baidu-singers-relationships/
+http://bjt.cos.name/2011/05/baidu-singers-relationships/

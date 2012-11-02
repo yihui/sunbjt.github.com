@@ -30,7 +30,7 @@ category:
 
 还有美丽的向日葵的花盘中果实：
 
-![](http://www.bjt.name/wp-content/uploads/2012/05/sunflower.jpg)
+![](http://bjt.cos.name/wp-content/uploads/2012/05/sunflower.jpg)
 
 
 这个序列虽说非常有意思，但我当时并没有意识到在R中求解费波那西序列的时间问题。

@@ -11,7 +11,7 @@ category:
   - Z7Z8
 meta: 
   _edit_last: "2"
-  _efficient_related_posts: "a:5:{i:0;a:4:{s:2:\"ID\";s:5:\"10363\";s:10:\"post_title\";s:48:\"\xE7\xAC\xAC\xE4\xBA\x8C\xE5\xB1\x8A\xE4\xB8\xAD\xE5\x9B\xBD R \xE8\xAF\xAD\xE8\xA8\x80\xE4\xBC\x9A\xE8\xAE\xAE\xEF\xBC\x88\xE5\x8C\x97\xE4\xBA\xAC\xEF\xBC\x89\xE9\x9A\x8F\xE7\xAC\x94\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:49:\"http://www.bjt.name/2009/12/r-conference-beijing/\";}i:1;a:4:{s:2:\"ID\";s:4:\"9980\";s:10:\"post_title\";s:34:\"\xE6\x9C\x89\xE6\x84\x8F\xE6\x80\x9D\xE7\x9A\x84R\xEF\xBC\x8C\xE6\x9C\x89\xE6\x84\x8F\xE6\x80\x9D\xE7\x9A\x84\xE5\xA4\xA7\xE5\xAE\xB6\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:51:\"http://www.bjt.name/2008/12/r-conference-ruc-china/\";}i:2;a:4:{s:2:\"ID\";s:5:\"10991\";s:10:\"post_title\";s:37:\"2012\xE5\xB9\xB4\xE6\x95\xB0\xE6\x8D\xAE\xE6\x8C\x96\xE6\x8E\x98\xE8\xBD\xAF\xE4\xBB\xB6\xE4\xBD\xBF\xE7\x94\xA8\xE8\xB0\x83\xE6\x9F\xA5\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:53:\"http://www.bjt.name/2012/05/2012-datamining-software/\";}i:3;a:4:{s:2:\"ID\";s:5:\"10874\";s:10:\"post_title\";s:22:\"\xE6\x95\xB0\xE6\x8D\xAE\xE6\x8C\x96\xE6\x8E\x98\xE4\xB9\x8BR\xE4\xB8\x8ESQL\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:49:\"http://www.bjt.name/2011/08/r-and-sql-datamining/\";}i:4;a:4:{s:2:\"ID\";s:5:\"10853\";s:10:\"post_title\";s:49:\"2006\xE5\xB9\xB4\xE8\x87\xB3\xE4\xBB\x8A\xE5\x9B\xBD\xE5\x86\x85\xE8\xB4\xA7\xE5\xB8\x81\xE4\xBE\x9B\xE5\xBA\x94\xE9\x87\x8F\xE7\x9A\x84Motion Chart\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:53:\"http://www.bjt.name/2011/07/money-supply-motion-char/\";}}"
+  _efficient_related_posts: "a:5:{i:0;a:4:{s:2:\"ID\";s:5:\"10363\";s:10:\"post_title\";s:48:\"\xE7\xAC\xAC\xE4\xBA\x8C\xE5\xB1\x8A\xE4\xB8\xAD\xE5\x9B\xBD R \xE8\xAF\xAD\xE8\xA8\x80\xE4\xBC\x9A\xE8\xAE\xAE\xEF\xBC\x88\xE5\x8C\x97\xE4\xBA\xAC\xEF\xBC\x89\xE9\x9A\x8F\xE7\xAC\x94\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:49:\"http://bjt.cos.name/2009/12/r-conference-beijing/\";}i:1;a:4:{s:2:\"ID\";s:4:\"9980\";s:10:\"post_title\";s:34:\"\xE6\x9C\x89\xE6\x84\x8F\xE6\x80\x9D\xE7\x9A\x84R\xEF\xBC\x8C\xE6\x9C\x89\xE6\x84\x8F\xE6\x80\x9D\xE7\x9A\x84\xE5\xA4\xA7\xE5\xAE\xB6\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:51:\"http://bjt.cos.name/2008/12/r-conference-ruc-china/\";}i:2;a:4:{s:2:\"ID\";s:5:\"10991\";s:10:\"post_title\";s:37:\"2012\xE5\xB9\xB4\xE6\x95\xB0\xE6\x8D\xAE\xE6\x8C\x96\xE6\x8E\x98\xE8\xBD\xAF\xE4\xBB\xB6\xE4\xBD\xBF\xE7\x94\xA8\xE8\xB0\x83\xE6\x9F\xA5\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:53:\"http://bjt.cos.name/2012/05/2012-datamining-software/\";}i:3;a:4:{s:2:\"ID\";s:5:\"10874\";s:10:\"post_title\";s:22:\"\xE6\x95\xB0\xE6\x8D\xAE\xE6\x8C\x96\xE6\x8E\x98\xE4\xB9\x8BR\xE4\xB8\x8ESQL\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:49:\"http://bjt.cos.name/2011/08/r-and-sql-datamining/\";}i:4;a:4:{s:2:\"ID\";s:5:\"10853\";s:10:\"post_title\";s:49:\"2006\xE5\xB9\xB4\xE8\x87\xB3\xE4\xBB\x8A\xE5\x9B\xBD\xE5\x86\x85\xE8\xB4\xA7\xE5\xB8\x81\xE4\xBE\x9B\xE5\xBA\x94\xE9\x87\x8F\xE7\x9A\x84Motion Chart\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:53:\"http://bjt.cos.name/2011/07/money-supply-motion-char/\";}}"
   _relation_threshold: "1"
   dsq_thread_id: "600837283"
 ---
@@ -19,7 +19,7 @@ meta:
 
 华师的大门和我想象的差不多，里面古朴的建筑风格也别具一格。
 
-<img src="http://www.bjt.name/wp-content/uploads/ECNU.jpg" alt="" width="368" height="466" />
+<img src="http://bjt.cos.name/wp-content/uploads/ECNU.jpg" alt="" width="368" height="466" />
 
 无奈天公不作美，上海这几日阴雨霏霏，没有好好的在华师内仔细转转。
 

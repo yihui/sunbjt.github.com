@@ -9,7 +9,7 @@ category:
   - Life
 meta: 
   _edit_last: "2"
-  _efficient_related_posts: "a:2:{i:0;a:4:{s:2:\"ID\";s:5:\"10629\";s:10:\"post_title\";s:33:\"\xE5\x8C\x97\xE4\xBA\xAC\xE6\x88\xBF\xE5\x9C\xB0\xE4\xBA\xA7\xE7\xBD\x91\xE4\xB8\x8A\xE7\xAD\xBE\xE7\xBA\xA6\xE6\x83\x85\xE5\x86\xB5\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:58:\"http://www.bjt.name/2010/03/beijing-real-estate-contracts/\";}i:1;a:4:{s:2:\"ID\";s:5:\"10000\";s:10:\"post_title\";s:35:\"\xE6\x88\xBF\xE5\x9C\xB0\xE4\xBA\xA7\xE6\xB3\xA1\xE6\xB2\xAB\xEF\xBC\x9F- \xE5\xBE\x97\xE7\x9E\x85\xE7\x9E\x85\xE4\xBA\x86\xEF\xBC\x81\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:60:\"http://www.bjt.name/2009/06/real-estate-bubble-data-beijing/\";}}"
+  _efficient_related_posts: "a:2:{i:0;a:4:{s:2:\"ID\";s:5:\"10629\";s:10:\"post_title\";s:33:\"\xE5\x8C\x97\xE4\xBA\xAC\xE6\x88\xBF\xE5\x9C\xB0\xE4\xBA\xA7\xE7\xBD\x91\xE4\xB8\x8A\xE7\xAD\xBE\xE7\xBA\xA6\xE6\x83\x85\xE5\x86\xB5\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:58:\"http://bjt.cos.name/2010/03/beijing-real-estate-contracts/\";}i:1;a:4:{s:2:\"ID\";s:5:\"10000\";s:10:\"post_title\";s:35:\"\xE6\x88\xBF\xE5\x9C\xB0\xE4\xBA\xA7\xE6\xB3\xA1\xE6\xB2\xAB\xEF\xBC\x9F- \xE5\xBE\x97\xE7\x9E\x85\xE7\x9E\x85\xE4\xBA\x86\xEF\xBC\x81\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:60:\"http://bjt.cos.name/2009/06/real-estate-bubble-data-beijing/\";}}"
   _relation_threshold: "1"
   dsq_thread_id: "600837754"
 ---

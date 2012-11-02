@@ -17,7 +17,7 @@ category:
 职业习惯，顺手把《明朝那些事儿》中所有的人物关系绘制一下，正好作为明史的温习：
 
 
-![](http://www.bjt.name/wp-content/uploads/2012/09/ming.png)
+![](http://bjt.cos.name/wp-content/uploads/2012/09/ming.png)
 
 
 仅在这张图上就有很多有意思的东西，简单摘录如下：
@@ -34,7 +34,7 @@ category:
 按照道理来说，君王制度的结果意味着王朝是以皇帝为核心的，但在伟大的明朝，存在几位霸道的宦官：王振、刘瑾、魏忠贤……宦官政治击穿了整个明朝的276年历史。
 
 
-![](http://www.bjt.name/wp-content/uploads/2012/09/ming2.png)
+![](http://bjt.cos.name/wp-content/uploads/2012/09/ming2.png)
 
 
 当年朱棣和自己侄子抢皇位，本来作为一个王爷没有足够的军事实力同朝廷对抗，于是联合了当时军事实力最为强大（手上握有蒙古骑兵组成的朵颜三卫）的宁王朱权，
@@ -51,7 +51,7 @@ category:
 胡濙同兵部侍郎于谦谋定退敌之策。积四十年引而薄发，君子也！八十九卒，赠太保，谥忠安。
 
 
-![](http://www.bjt.name/wp-content/uploads/2012/09/ming0.png)
+![](http://bjt.cos.name/wp-content/uploads/2012/09/ming0.png)
 
 
 朱厚照虽然荒淫无度，行为怪诞，不理国政，宠信佞臣（比如宦官刘瑾、武人江彬），但对于周围的朝臣容忍度颇高，比如杨廷和的以国家社稷为重的各种做对，
@@ -91,7 +91,7 @@ category:
 最后朱由检一条线挂到了朱元璋，算是有始有终吧～
 
 
-![](http://www.bjt.name/wp-content/uploads/2012/09/ming1.png)
+![](http://bjt.cos.name/wp-content/uploads/2012/09/ming1.png)
 
 
 纵观整个明史，最喜欢的是王阳明。不过比较搞笑的是我最早是不知道这个人的，而是因为非常敬佩日本海军统帅_东乡平八郎_，

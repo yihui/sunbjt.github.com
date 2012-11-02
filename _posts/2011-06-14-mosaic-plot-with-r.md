@@ -15,8 +15,8 @@ category:
 
 本来想标题改的彪悍一些——《一千二百个女人和我的故事》，想想还是算了吧，虽说是用了1200个漂亮女人组成了我的头像，但她们我一个也不认识，哈哈。
 
-<a href="http://www.bjt.name/wp-content/uploads/2011/06/me.png"><img class="aligncenter size-full wp-image-10802" title="it is me" src="http://www.bjt.name/wp-content/uploads/2011/06/me.png" alt="" width="750" height="1000" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2011/06/me.png"><img class="aligncenter size-full wp-image-10802" title="it is me" src="http://bjt.cos.name/wp-content/uploads/2011/06/me.png" alt="" width="750" height="1000" /></a>
 
 用的原图我就不贴了，实际上我是戴着眼镜的，马赛克平滑以后，不明显了。
 
-最后是<a href="http://www.bjt.name/wp-content/uploads/2011/06/main.r" target="_blank">代码</a>。非常简单，不到20行。大概所需要的时间：构思写代码1个小时，下载和整理图片时间长点，3个多小时（当然你本地资源和<a href="http://www.matrix67.com/blog" target="_blank">Matrix67</a>一样丰富的话另说，哈）。
+最后是<a href="http://bjt.cos.name/wp-content/uploads/2011/06/main.r" target="_blank">代码</a>。非常简单，不到20行。大概所需要的时间：构思写代码1个小时，下载和整理图片时间长点，3个多小时（当然你本地资源和<a href="http://www.matrix67.com/blog" target="_blank">Matrix67</a>一样丰富的话另说，哈）。

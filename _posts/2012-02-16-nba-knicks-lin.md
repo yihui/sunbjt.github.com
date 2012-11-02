@@ -36,7 +36,7 @@ category:
 
 越靠近中心的越平庸，离中心越远的球员必定有某项能力有过人之处。
 
-![](http://www.bjt.name/wp-content/uploads/2012/02/nba.png)
+![](http://bjt.cos.name/wp-content/uploads/2012/02/nba.png)
 
 
 图上的每个点代表了一个球员，实力最强的25%显示了他们的名字。这张图仁者见仁吧，最近的一年来，关注NBA较少，没啥解释的。

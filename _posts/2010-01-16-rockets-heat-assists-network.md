@@ -12,7 +12,7 @@ type: post
 published: true
 meta: 
   _edit_last: "2"
-  _efficient_related_posts: "a:5:{i:0;a:4:{s:2:\"ID\";s:4:\"9989\";s:10:\"post_title\";s:39:\"\xE4\xBB\x8E\xE6\x95\xB0\xE6\x8D\xAE\xE7\x9C\x8B2008-2009\xE8\xB5\x9B\xE5\xAD\xA3\xE7\x9A\x84\xE7\x81\xAB\xE7\xAE\xAD\xE9\x98\x9F\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:51:\"http://www.bjt.name/2009/03/data-2008-2009-rockets/\";}i:1;a:4:{s:2:\"ID\";s:4:\"9991\";s:10:\"post_title\";s:49:\"\xE6\x8A\x95\xE7\xAF\xAE\xE7\x82\xB9\xE5\x92\x8C\xE5\x91\xBD\xE4\xB8\xAD\xE7\x8E\x87\xEF\xBC\x882009-04-04 HOU vs. LAL\xEF\xBC\x89\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:58:\"http://www.bjt.name/2009/04/hou-vs-lal-fieldgoal%ef%bc%89/\";}i:2;a:4:{s:2:\"ID\";s:5:\"11038\";s:10:\"post_title\";s:33:\"\xE6\x98\x8E\xE6\x9C\x9D\xE9\x82\xA3\xE4\xBA\x9B\xE4\xBA\x8B\xE5\x84\xBF\xE7\x9A\x84\xE9\x82\xA3\xE4\xBA\x9B\xE4\xBA\x8B\xE5\x84\xBF\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:41:\"http://www.bjt.name/2012/09/ming-dynasty/\";}i:3;a:4:{s:2:\"ID\";s:5:\"10784\";s:10:\"post_title\";s:54:\"\xE7\x99\xBE\xE5\xBA\xA6\xE5\xA6\x82\xE6\x98\xAF\xE8\xAF\xB4\xE2\x80\x94\xE2\x80\x94\xE4\xB8\xAD\xE5\x9B\xBD\xE4\xB8\xA4\xE7\x99\xBE\xE5\xBC\xBA\xE6\xB5\x81\xE8\xA1\x8C\xE6\xAD\x8C\xE6\x89\x8B\xE5\x85\xB3\xE7\xB3\xBB\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:56:\"http://www.bjt.name/2011/05/baidu-singers-relationships/\";}i:4;a:4:{s:2:\"ID\";s:5:\"10727\";s:10:\"post_title\";s:45:\"\xE4\xB9\x9F\xE7\x9C\x8B\xE9\x9B\x86\xE6\x99\xBA\xE5\xA4\xB4\xE8\x84\x91\xE9\xA3\x8E\xE6\x9A\xB4\xE8\xAE\xBA\xE5\x9D\x9B\xE7\x9A\x84\xE6\xA0\xB8\xE5\xBF\x83\xE7\xBB\x84\xE7\xBB\x87\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:53:\"http://www.bjt.name/2010/12/swarmagent-forum-network/\";}}"
+  _efficient_related_posts: "a:5:{i:0;a:4:{s:2:\"ID\";s:4:\"9989\";s:10:\"post_title\";s:39:\"\xE4\xBB\x8E\xE6\x95\xB0\xE6\x8D\xAE\xE7\x9C\x8B2008-2009\xE8\xB5\x9B\xE5\xAD\xA3\xE7\x9A\x84\xE7\x81\xAB\xE7\xAE\xAD\xE9\x98\x9F\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:51:\"http://bjt.cos.name/2009/03/data-2008-2009-rockets/\";}i:1;a:4:{s:2:\"ID\";s:4:\"9991\";s:10:\"post_title\";s:49:\"\xE6\x8A\x95\xE7\xAF\xAE\xE7\x82\xB9\xE5\x92\x8C\xE5\x91\xBD\xE4\xB8\xAD\xE7\x8E\x87\xEF\xBC\x882009-04-04 HOU vs. LAL\xEF\xBC\x89\";s:7:\"matches\";s:1:\"2\";s:9:\"permalink\";s:58:\"http://bjt.cos.name/2009/04/hou-vs-lal-fieldgoal%ef%bc%89/\";}i:2;a:4:{s:2:\"ID\";s:5:\"11038\";s:10:\"post_title\";s:33:\"\xE6\x98\x8E\xE6\x9C\x9D\xE9\x82\xA3\xE4\xBA\x9B\xE4\xBA\x8B\xE5\x84\xBF\xE7\x9A\x84\xE9\x82\xA3\xE4\xBA\x9B\xE4\xBA\x8B\xE5\x84\xBF\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:41:\"http://bjt.cos.name/2012/09/ming-dynasty/\";}i:3;a:4:{s:2:\"ID\";s:5:\"10784\";s:10:\"post_title\";s:54:\"\xE7\x99\xBE\xE5\xBA\xA6\xE5\xA6\x82\xE6\x98\xAF\xE8\xAF\xB4\xE2\x80\x94\xE2\x80\x94\xE4\xB8\xAD\xE5\x9B\xBD\xE4\xB8\xA4\xE7\x99\xBE\xE5\xBC\xBA\xE6\xB5\x81\xE8\xA1\x8C\xE6\xAD\x8C\xE6\x89\x8B\xE5\x85\xB3\xE7\xB3\xBB\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:56:\"http://bjt.cos.name/2011/05/baidu-singers-relationships/\";}i:4;a:4:{s:2:\"ID\";s:5:\"10727\";s:10:\"post_title\";s:45:\"\xE4\xB9\x9F\xE7\x9C\x8B\xE9\x9B\x86\xE6\x99\xBA\xE5\xA4\xB4\xE8\x84\x91\xE9\xA3\x8E\xE6\x9A\xB4\xE8\xAE\xBA\xE5\x9D\x9B\xE7\x9A\x84\xE6\xA0\xB8\xE5\xBF\x83\xE7\xBB\x84\xE7\xBB\x87\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:53:\"http://bjt.cos.name/2010/12/swarmagent-forum-network/\";}}"
   _relation_threshold: "1"
   dsq_thread_id: "600837672"
 ---
@@ -28,7 +28,7 @@ meta:
 
 本场比赛火箭一共20个助攻，Brooks 和 Battier 分别助攻了最高的5个和4个。每次助攻都会涉及两位球员，那么本场比赛所有助攻结果综合在一起，即我们将助攻者和被助攻者之间的关系使用社会网络关系表现出来，会有一些有趣的现象：
 
-<a href="http://www.bjt.name/wp-content/uploads/2010/01/hou.png"><img class="aligncenter size-full wp-image-10516" title="hou" src="http://www.bjt.name/wp-content/uploads/2010/01/hou.png" alt="" width="485" height="449" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2010/01/hou.png"><img class="aligncenter size-full wp-image-10516" title="hou" src="http://bjt.cos.name/wp-content/uploads/2010/01/hou.png" alt="" width="485" height="449" /></a>
 
 注释：
 
@@ -54,7 +54,7 @@ meta:
 
 <hr />40场比赛助攻数据同时考虑，结果有些凌乱：
 
-<span style="text-decoration: line-through;"><a href="http://www.bjt.name/wp-content/uploads/2010/01/hou40.png"><img class="aligncenter size-full wp-image-10529" title="hou40" src="http://www.bjt.name/wp-content/uploads/2010/01/hou40.png" alt="" width="525" height="465" /></a></span>
+<span style="text-decoration: line-through;"><a href="http://bjt.cos.name/wp-content/uploads/2010/01/hou40.png"><img class="aligncenter size-full wp-image-10529" title="hou40" src="http://bjt.cos.name/wp-content/uploads/2010/01/hou40.png" alt="" width="525" height="465" /></a></span>
 
 注：这个赛季火箭队有一些球员实际上并没有真正的进入轮转，比如"Tracy McGrady","Mike Harris","Jermaine Taylor","Pops Mensah-Bonsu","Brian Cook"。虽然有些球员（比如麦蒂）的确对球队的（被）助攻仍有帮助，但贡献非常有限。出于结果整洁性的考虑，上图已将这些球员因素剔除。
 

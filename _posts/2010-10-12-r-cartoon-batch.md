@@ -11,7 +11,7 @@ category:
   - Z7Z8
 meta: 
   _edit_last: "2"
-  _efficient_related_posts: "a:1:{i:0;a:4:{s:2:\"ID\";s:5:\"10720\";s:10:\"post_title\";s:18:\"\xE9\x82\xA3\xE5\x8F\xAA\xE5\xA5\x94\xE8\xB7\x91\xE7\x9A\x84\xE9\xA9\xAC\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:48:\"http://www.bjt.name/2011/11/running-horse-movie/\";}}"
+  _efficient_related_posts: "a:1:{i:0;a:4:{s:2:\"ID\";s:5:\"10720\";s:10:\"post_title\";s:18:\"\xE9\x82\xA3\xE5\x8F\xAA\xE5\xA5\x94\xE8\xB7\x91\xE7\x9A\x84\xE9\xA9\xAC\";s:7:\"matches\";s:1:\"1\";s:9:\"permalink\";s:48:\"http://bjt.cos.name/2011/11/running-horse-movie/\";}}"
   _relation_threshold: "1"
   dsq_thread_id: "600837423"
 ---
@@ -25,11 +25,11 @@ meta:
 
 不过，有些下载的漫画有些问题，比如下面的这种的：
 
-<a href="http://www.bjt.name/wp-content/uploads/2010/10/Naruto_04_086.jpg"><img class="aligncenter size-full wp-image-10682" title="Naruto_04_086" src="http://www.bjt.name/wp-content/uploads/2010/10/Naruto_04_086.jpg" alt="" width="644" height="503" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2010/10/Naruto_04_086.jpg"><img class="aligncenter size-full wp-image-10682" title="Naruto_04_086" src="http://bjt.cos.name/wp-content/uploads/2010/10/Naruto_04_086.jpg" alt="" width="644" height="503" /></a>
 <p style="text-align: left;">如果直接合并为pdf在Kindle DX上阅读，纵向显示的话，上下各有很大一块白边，画面非常小；
-<a href="http://www.bjt.name/wp-content/uploads/2010/10/Naruto_04_086_1.jpg"><img class="aligncenter size-full wp-image-10682" style="border: 1px solid black;" title="Naruto_04_086_1" src="http://www.bjt.name/wp-content/uploads/2010/10/Naruto_04_086_1.jpg" alt="" width="430" height="630" /></a></p>
+<a href="http://bjt.cos.name/wp-content/uploads/2010/10/Naruto_04_086_1.jpg"><img class="aligncenter size-full wp-image-10682" style="border: 1px solid black;" title="Naruto_04_086_1" src="http://bjt.cos.name/wp-content/uploads/2010/10/Naruto_04_086_1.jpg" alt="" width="430" height="630" /></a></p>
 如果横向显示，效果更差，底部有一部分不能显示。想看完两页漫画的话，需要向上下翻页反复操作：
-<a href="http://www.bjt.name/wp-content/uploads/2010/10/Naruto_04_086_2.jpg"><img class="aligncenter size-full wp-image-10682" style="border: 1px solid black;" title="Naruto_04_086_2" src="http://www.bjt.name/wp-content/uploads/2010/10/Naruto_04_086_2.jpg" alt="" width="644" height="503" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2010/10/Naruto_04_086_2.jpg"><img class="aligncenter size-full wp-image-10682" style="border: 1px solid black;" title="Naruto_04_086_2" src="http://bjt.cos.name/wp-content/uploads/2010/10/Naruto_04_086_2.jpg" alt="" width="644" height="503" /></a>
 
 琢磨来琢磨去，还是得手动把漫画裁剪为适合Kindle阅读的大小（Kindle DX的标准9英寸屏显示区域和32开纸大小接近），并且把裁剪后的漫画顺序调换（日本漫画的阅读习惯是从左向右）。
 

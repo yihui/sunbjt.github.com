@@ -12,7 +12,7 @@ category:
 还记得第一次看到<a href="http://en.wikipedia.org/wiki/Beijing_National_Aquatics_Center">水立方</a>时的惊讶么？
 
 是什么这么吸引我们？是有如天空般的颜色？还是那气泡似的形状？
-<p style="text-align: center;"><a href="http://www.bjt.name/wp-content/uploads/2009/08/Watercube.jpg"><img class="size-full wp-image-10624 aligncenter" title="Watercube" src="http://www.bjt.name/wp-content/uploads/2009/08/Watercube.jpg" alt="" width="800" height="462" /></a></p>
+<p style="text-align: center;"><a href="http://bjt.cos.name/wp-content/uploads/2009/08/Watercube.jpg"><img class="size-full wp-image-10624 aligncenter" title="Watercube" src="http://bjt.cos.name/wp-content/uploads/2009/08/Watercube.jpg" alt="" width="800" height="462" /></a></p>
 从水立方的外墙结构上看，不但外观美观，而且十分紧凑。水立方外墙为什么会有这样的性质，是因为它上应用了一项最优化的技术，即<a href="http://en.wikipedia.org/wiki/Voronoi" target="_blank">Voronoi</a> 原理。
 
 <a href="http://en.wikipedia.org/wiki/Voronoi" target="_blank">Voronoi</a> 图也常常被称为 Dirichlet 格局（Dirichlet tessellation）。通俗讲，其原理是一项从点到面的技术。它的每个多边形只有一个"生成点"，而这个多边形上的每个点到"生成点"的距离总是比到其他"生成点"的距离要小（是不是想到了 K-means 算法？）。
@@ -23,7 +23,7 @@ category:
 
 下面，我根据各个省会城市（包括香港、澳门）的地理位置，利用 Voronoi 原理，计算每个省最佳控制范围（使用红色的线条标记）：
 
-<img src="http://www.bjt.name/wp-content/uploads/2009/08/China.png" alt="China.png" width="700" height="490" />
+<img src="http://bjt.cos.name/wp-content/uploads/2009/08/China.png" alt="China.png" width="700" height="490" />
 
 虽然理论值（最优）和现实值（行政区划、地理）总有差距，但是，比较一下会发现一些值得探讨的现象：
 <ul>

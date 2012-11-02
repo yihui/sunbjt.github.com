@@ -19,12 +19,12 @@ yanlinlin 站长放出个问题，按照<a href="http://blog.sciencenet.cn/home.
 
 还好，这些数据的平方比较简单，可以通过模拟平方的运算过程来得到精确的结果，代码如下：
 
-<a href="http://www.bjt.name/wp-content/uploads/2011/06/code.jpg"><img class="aligncenter size-full wp-image-10813" title="code" src="http://www.bjt.name/wp-content/uploads/2011/06/code.jpg" alt="" width="387" height="381" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2011/06/code.jpg"><img class="aligncenter size-full wp-image-10813" title="code" src="http://bjt.cos.name/wp-content/uploads/2011/06/code.jpg" alt="" width="387" height="381" /></a>
 
 生成的图形有些像<a href="http://zh.wikipedia.org/wiki/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92%E5%BD%A2" target="_blank">杨辉三角</a>，也是非常漂亮：
 
 
-<a href="http://www.bjt.name/wp-content/uploads/2011/06/111.jpg"><img class="aligncenter size-full wp-image-10814" title="111" src="http://www.bjt.name/wp-content/uploads/2011/06/111.jpg" alt="" width="498" height="493" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2011/06/111.jpg"><img class="aligncenter size-full wp-image-10814" title="111" src="http://bjt.cos.name/wp-content/uploads/2011/06/111.jpg" alt="" width="498" height="493" /></a>
 
 
 但我想应该还有更好的实现方式，期待跟帖出现。

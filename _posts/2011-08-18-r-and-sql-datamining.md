@@ -20,7 +20,7 @@ category:
 最近在数据挖掘专业网站 KDnuggets 上刊出了2011年度关于数据挖掘/分析语言流行度的<a href="http://www.kdnuggets.com/2011/08/poll-languages-for-data-mining-analytics.html" target="_blank">调查</a>，不出意料R、SQL、Python果然排在了前三位。当然有看官说了，参与调查的样本数量太少，而且以登录KDnuggets网站的用户为主，样本的信息显然是有偏的。实话说，我也对KDnuggets网站的Poll持保留态度，但它的结果毕竟代表了某一类人群的使用偏好，尤其是在语言角度。
 
 
-<a href="http://www.bjt.name/wp-content/uploads/2011/08/182924.png"><img class="aligncenter" title="data mining survey" src="http://www.bjt.name/wp-content/uploads/2011/08/182924.png" alt="" width="492" height="305" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2011/08/182924.png"><img class="aligncenter" title="data mining survey" src="http://bjt.cos.name/wp-content/uploads/2011/08/182924.png" alt="" width="492" height="305" /></a>
 
 
 我们看排名前5位的语言：

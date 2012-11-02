@@ -22,7 +22,7 @@ category:
 明天会在公司内部进行文本挖掘的培训，下面是提纲：
 
 
-![](http://www.bjt.name/wp-content/uploads/2012/02/tm_training.png)
+![](http://bjt.cos.name/wp-content/uploads/2012/02/tm_training.png)
 
 
 说到文本挖掘，就要说一下文本云可视化。前一段时间老觉得wordcloud这个包的可视化图形不是很美观，于是想重写这个包。但随着深入理解文本云，发现非常不简单，是个<a href="http://en.wikipedia.org/wiki/NP-hard" target="_blank">NP问题</a>，一时半会没有太好的处理办法。从实际项目的角度，这种可视化意义不是很大，几经折腾后无奈放弃。
@@ -31,13 +31,13 @@ category:
 但这其中的折腾还是蛮有意思的，比如最初的想法是可以绘制任意形状的文本云，比如根据中国地图形状（但太丑了，又放弃）：
 
 
-![](http://www.bjt.name/wp-content/uploads/2012/02/final.png)
+![](http://bjt.cos.name/wp-content/uploads/2012/02/final.png)
 
 
 还有类似这样效果的：
 
 
-![](http://www.bjt.name/wp-content/uploads/2012/02/wordcloud.png)
+![](http://bjt.cos.name/wp-content/uploads/2012/02/wordcloud.png)
 
 
 有时间再搞吧——但有时间的话就应该在图像识别这块了，囧！

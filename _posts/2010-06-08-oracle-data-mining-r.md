@@ -59,4 +59,4 @@ RODM_close_dbms_connection(DB)
 RODM_close_dbms_connection(DB)</pre>
 <blockquote>说一句题外话：
 R的影响力除了在统计分析领域（SAS、SPSS、Statistica已经都开始支持R接口）外，已然发展到了商业数据库领域。</blockquote>
-永久链接：http://www.bjt.name/2010/06/oracle-data-mining-r/
+永久链接：http://bjt.cos.name/2010/06/oracle-data-mining-r/

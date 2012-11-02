@@ -31,7 +31,7 @@ category:
 并且冲动的枪杀了Larkyns（和张灵甫有的一拼）。一直到1877年，Muybridge 被判无罪（Stanford提供的辩护资助），才又继续他的奔马实验，于是有了这个：
 
 
-![](http://www.bjt.name/wp-content/uploads/2010/12/horse.jpg)
+![](http://bjt.cos.name/wp-content/uploads/2010/12/horse.jpg)
 
 
 后来Muybridge根据这些赛马的图片，创作了人类历史上的第一个小电影。
@@ -39,13 +39,13 @@ category:
 所以这个小电影有点晃～～）
 
 
-<a href="http://www.bjt.name/wp-content/uploads/2010/12/horse_movie1.gif"><img class="aligncenter size-full wp-image-10723" title="horse_movie" src="http://www.bjt.name/wp-content/uploads/2010/12/horse_movie1.gif" alt="" width="157" height="100" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2010/12/horse_movie1.gif"><img class="aligncenter size-full wp-image-10723" title="horse_movie" src="http://bjt.cos.name/wp-content/uploads/2010/12/horse_movie1.gif" alt="" width="157" height="100" /></a>
 
 
 当然，还有一个效果更好的：
 
 
-<a href="http://www.bjt.name/wp-content/uploads/2011/11/Muybridge_race_horse_animated.gif"><img class="aligncenter size-full wp-image-10889" title="Muybridge_race_horse_animated" src="http://www.bjt.name/wp-content/uploads/2011/11/Muybridge_race_horse_animated.gif" alt="" width="300" height="200" /></a>
+<a href="http://bjt.cos.name/wp-content/uploads/2011/11/Muybridge_race_horse_animated.gif"><img class="aligncenter size-full wp-image-10889" title="Muybridge_race_horse_animated" src="http://bjt.cos.name/wp-content/uploads/2011/11/Muybridge_race_horse_animated.gif" alt="" width="300" height="200" /></a>
 
 
 哈，这便是统计动画～～

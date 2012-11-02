@@ -34,4 +34,4 @@ R会议结束后，大家又一起和熊师妹过生日party，遥想去年还�
     
 与致力于统计事业的各位共勉！
 
-![](http://www.bjt.name/wp-content/uploads/2012/05/DSC02179s.jpg)
+![](http://bjt.cos.name/wp-content/uploads/2012/05/DSC02179s.jpg)

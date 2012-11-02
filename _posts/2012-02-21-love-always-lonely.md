@@ -18,7 +18,7 @@ meta:
 爱情究竟是什么，让我们看看统计数字诉说的真相：
 <blockquote>爱情永远寂寞</blockquote>
 22996首中文歌曲（844个流行歌手）——不管我们怎么想，他们是这样说的。
-<p style="text-align: center;"><a href="http://www.bjt.name/wp-content/uploads/2012/02/song_words.png" target="_blank"><img class="aligncenter  wp-image-10902" style="border-image: initial; border-width: 1px; border-color: black; border-style: solid;" title="song_words" src="http://www.bjt.name/wp-content/uploads/2012/02/song_words.png" alt="" width="965" height="842" /></a></p>
+<p style="text-align: center;"><a href="http://bjt.cos.name/wp-content/uploads/2012/02/song_words.png" target="_blank"><img class="aligncenter  wp-image-10902" style="border-image: initial; border-width: 1px; border-color: black; border-style: solid;" title="song_words" src="http://bjt.cos.name/wp-content/uploads/2012/02/song_words.png" alt="" width="965" height="842" /></a></p>
 <p style="text-align: left;">爱情、永远、寂寞三个词之间夹杂着幸福、美丽、快乐、感觉、离开、不在、也许、其实、是我、是你、是否、曾经、现在……</p>
 <p style="text-align: left;">永远还覆盖了生命、明天、等待、拥有……</p>
 <p style="text-align: left;">爱情有着眼泪、无法、伤心、感情……</p>
