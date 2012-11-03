@@ -20,29 +20,29 @@ meta:
 
 现在每一期的福彩双色球销售额大概是2亿左右（已持续很长时间），每注双色球为2元，就是说每期双色球的销售大概会有1亿人次参与。
 
-<span style="font-family: Courier New;"><samp style="font-family: 宋体;">在随机选择，且每次抽取都是等概率的的假定条件下，理论的重复彩票注数的分布（0注至41注）如下：</samp></span>
+在随机选择，且每次抽取都是等概率的的假定条件下，理论的重复彩票注数的分布（0注至41注）如下：
 
 <span style="font-family: Courier New;"><samp style="font-family: 宋体;"><img src="http://bjt.cos.name/wp-content/uploads/1.png" alt="" width="644" height="371" /></samp></span>
 
-<span style="font-family: Courier New;"><samp><span style="font-family: Arial;">
-</span></samp></span>
 
-一等奖是完全随机出现的，那么<span style="font-family: Courier New;"><samp><span style="font-family: Arial;">在假设条件下，一等奖同时出现五注的概率最高，六注、四注其次，再次为七注、三注，类推……当然理论上，没有中奖（0注）和中12注以上的概率相比其他情形低了很多。</span></samp></span>
 
-<span style="font-family: Courier New;"><samp><span style="font-family: Arial;">那么我们再看一看福利彩票双色球每期中一等奖（2008年1月1日至2009年7月23日）的实际分布情况：</span></samp></span>
+
+一等奖是完全随机出现的，那么在假设条件下，一等奖同时出现五注的概率最高，六注、四注其次，再次为七注、三注，类推……当然理论上，没有中奖（0注）和中12注以上的概率相比其他情形低了很多。
+
+那么我们再看一看福利彩票双色球每期中一等奖（2008年1月1日至2009年7月23日）的实际分布情况：
 
 <span style="font-family: Courier New;"><samp><img src="http://bjt.cos.name/wp-content/uploads/2009/07/thunderball2.png" alt="thunderball2.png" width="623" height="401" /></samp></span>
 
-<span style="font-family: Courier New;"><samp><span style="font-family: Arial;">
-有童鞋看出端倪了：实际数据的分布同理论上的分布是不一致的！理论上的一等奖出现概率最大在出现五注的位置，而实际上一等奖出现的最大概率出现在了两注的位置。</span></samp></span>
 
-<span style="font-family: Courier New;"><samp><span style="font-family: Arial;">为什么会出现这样的情况？主要是因为我们最开始的假设是有问题。</span></samp></span>
+有童鞋看出端倪了：实际数据的分布同理论上的分布是不一致的！理论上的一等奖出现概率最大在出现五注的位置，而实际上一等奖出现的最大概率出现在了两注的位置。
 
-<span style="font-family: Courier New;"><samp><span style="font-family: Arial;">双色球每期销售会有1亿人次的彩民参与？不可能！双色球的覆盖度没有那么大。</span></samp></span>
+为什么会出现这样的情况？主要是因为我们最开始的假设是有问题。
 
-<span style="font-family: Courier New;"><samp><span style="font-family: Arial;">一些彩民为了提高中奖概率（或者说迷信一些选号方法），会采用"复式"、"胆拖"、"倍投"等方式投注，当然大部分彩民还是会老老实实的买一注。综合考虑到这些因素以后，凭经验估计样本量应该为现在的一半左右，即5000万。这样看来较为合理的一等奖中奖概率理论上分布为：</span></samp></span>
+双色球每期销售会有1亿人次的彩民参与？不可能！双色球的覆盖度没有那么大。
 
-<span style="font-family: Courier New;"><samp><span style="font-family: Arial;"><img src="http://bjt.cos.name/wp-content/uploads/2.png" alt="" width="644" height="371" /></span></samp></span>
+一些彩民为了提高中奖概率（或者说迷信一些选号方法），会采用"复式"、"胆拖"、"倍投"等方式投注，当然大部分彩民还是会老老实实的买一注。综合考虑到这些因素以后，凭经验估计样本量应该为现在的一半左右，即5000万。这样看来较为合理的一等奖中奖概率理论上分布为：
+
+<img src="http://bjt.cos.name/wp-content/uploads/2.png" alt="" width="644" height="371" />
 
 此时理论分布同实际分布已经非常相似。
 
