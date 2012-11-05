@@ -32,11 +32,11 @@ Chrome还有个功能就是可以同步书签，不论在哪里，Google帐号�
 用这个应用还有一个好处，就是做R扩展包的同步。在R的etc目录下Rprofile.site文件中增加如下语句：
 
 
-    .Library.site &lt;- file.path("D:/Dropbox/site-library/")
+    .Library.site <- file.path("D:/Dropbox/site-library/")
     .libPaths(.Library.site)
 
 
 意思很明显，就是将所有的R扩展包装载`D:/Dropbox/site-library/`这个位置，不论哪台电脑上有包的变化，Dropbox都会做忠实的同步。
 有人肯定会问，你`install.packages`又不麻烦，费劲巴力的这么搞这么一下干嘛？因为单位网关屏蔽了所有zip文件的入口，故不得已而为之～～
 
-P.S 安装R包的时候记得Pause syncing
+P.S 安装R包的时候记得`Pause syncing`

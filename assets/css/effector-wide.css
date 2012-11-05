@@ -239,23 +239,23 @@ cite {
 }
 code, pre {
     font-family: Monaco, Menlo, "Courier New", monospace;
-    font-size: 12px;
+/*    font-size: 12px; */
 }
 code {
     padding: 3px 4px;
     color: #d14;
     background-color: #f7f7f9;
-    border: 1px solid #e1e1e8;
+/*    border: 1px solid #e1e1e8; */
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
 }
 pre {
     display: block;
-    padding: 8px;
+/*    padding: 8px;  */
     margin: 0 0 30px;
     line-height: 20px;
-    background-color: #f7f7f9;
+/*    background-color: #f7f7f9; */
     border: 1px solid #e1e1e8;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;

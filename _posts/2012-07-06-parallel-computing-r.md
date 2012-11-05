@@ -54,15 +54,15 @@ R 2.14.0版本以后，parallel包被作为核心包引入R，这个包主要建
 在parallel包里，对应上述两种并行化方式有如下两个核心函数（针对于lapply函数的并行化，mclapply在windows上不能使用）：
 
 
-*  parLapply(cl, x, FUN, ...)</li>
-*  mclapply(X, FUN, ..., mc.cores)</li>
+*  parLapply(cl, x, FUN, ...)
+*  mclapply(X, FUN, ..., mc.cores)
 
 
 考虑 lapply这个函数，这种隐式循环函数，它实际就是对不同的数据应用了相同的函数，是可以并行化的。首先看一个例子：
 
 
     doit <- function(x)(x)^2 + 2*x
-    system.time(res &lt;- lapply(1:5000000,  doit))
+    system.time(res <- lapply(1:5000000,  doit))
     user system elapsed
     24.05 0.05 24.20
 
@@ -72,7 +72,7 @@ R 2.14.0版本以后，parallel包被作为核心包引入R，这个包主要建
 
     library(parallel)
     cl <- makeCluster(getOption("cl.cores", 3)) # use 3 cores
-    system.time(res &lt;- parLapply(cl, 1:5000000,  doit))
+    system.time(res <- parLapply(cl, 1:5000000,  doit))
     user system elapsed
     6.54 0.34 19.95
     stopCluster(cl) # close clusters
@@ -89,7 +89,7 @@ R 2.14.0版本以后，parallel包被作为核心包引入R，这个包主要建
 
 
     mc <- getOption("mc.cores", 3)
-    system.time(res &lt;- mclapply(1:5000000,  doit, mc.cores = mc))
+    system.time(res <- mclapply(1:5000000,  doit, mc.cores = mc))
     user system elapsed
     6.657 0.500 7.181
 
