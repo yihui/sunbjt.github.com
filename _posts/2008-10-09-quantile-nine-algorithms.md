@@ -3,8 +3,6 @@ layout: post
 title: "quantile \xE7\x9A\x84 9 \xE4\xB8\xAD\xE6\xB1\x82\xE6\xB3\x95"
 tags: 
 - algorithms
-- quantile
-- "R \xE8\xAF\xAD\xE8\xA8\x80"
 status: publish
 type: post
 published: true
