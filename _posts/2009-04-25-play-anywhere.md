@@ -2,7 +2,7 @@
 layout: post
 title: Play Anywhere
 tags: 
-- "\xE7\xAF\xAE\xE7\x90\x83"
+- "篮球"
 status: publish
 type: post
 published: true

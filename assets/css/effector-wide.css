@@ -52,11 +52,13 @@ body {
     color: #555;
 }
 a {
-    color: #F95B1F;
+/*    color: #F95B1F;  */
+			color:#993404;
     text-decoration: none;
 }
 a:hover {
-    color: #A33B14;
+/*    color: #A33B14;  */
+			color:#FED98E;
     text-decoration: none;
 }
 a.label:hover {
@@ -366,7 +368,7 @@ text-shadow: 0 1px 0 #fff;
 .sitename {
     font-size: 40px;
    /* font-weight: bold;*/
-    color:  #333;
+    color:  #00007F;
     text-align:right;
 }
 .wrapper  {
