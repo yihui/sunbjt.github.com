@@ -244,7 +244,6 @@ code, pre {
 code {
     padding: 3px 4px;
     color: #d14;
-    background-color: #f7f7f9;
 /*    border: 1px solid #e1e1e8; */
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
@@ -252,10 +251,10 @@ code {
 }
 pre {
     display: block;
-/*    padding: 8px;  */
+    padding: 8px;  
+    background-color: #f7f7f9;
     margin: 0 0 30px;
     line-height: 20px;
-/*    background-color: #f7f7f9; */
     border: 1px solid #e1e1e8;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
