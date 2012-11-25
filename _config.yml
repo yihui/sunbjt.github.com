@@ -1,6 +1,6 @@
 markdown: rdiscount 
 permalink: /:year/:month/:title 
-title: ÁõË¼†´@±´¼ªËşĞĞĞÇ
+title: åˆ˜æ€å–†@è´å‰å¡”è¡Œæ˜Ÿ
 url: http://bjt.name
 subscribe: http://bjt.name/feed.xml
 exclude: [ README.md, newpost.rb ]
