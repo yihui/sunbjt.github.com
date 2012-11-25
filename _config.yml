@@ -2,7 +2,7 @@ markdown: rdiscount
 permalink: /:year/:month/:title 
 title: 刘思喆@贝吉塔行星
 url: http://bjt.name
-subscribe: http://bjt.name/feed.xml
+subscribe: http://bjt.name/feed/
 exclude: [ README.md, newpost.rb ]
 domain: www.bjt.name
 author: bjt
